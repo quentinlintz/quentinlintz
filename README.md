@@ -2,7 +2,7 @@
 I'm a web developer from northeast Indiana.
 
 * 💳 Working as a Software Engineer @ Stripe
-* 🌱 Learning Next.js
+* 🌱 Learning [Blitz](https://blitzjs.com)
 * 📚 Love reading and trivia games
 * 🏋️ Weightlifting and working out
 * 🤔 Curious about new places to travel to...
