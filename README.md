@@ -8,6 +8,6 @@ I'm a web developer from northeast Indiana.
 * 📚 Currently reading: _The Enlightenment_ by Ritchie Robertson and _A Wild Sheep Chase_ by Murakami
 * 🏋️ Weightlifting and working out
 * 🤔 Curious about new places to travel to...
-* 📫 How to reach me: [Twitter](https://twitter.com/QuentinLintz), (LinkedIn)[https://www.linkedin.com/in/quentinlintz/]
+* 📫 How to reach me: [Twitter](https://twitter.com/QuentinLintz), [LinkedIn](https://www.linkedin.com/in/quentinlintz/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quentinlintz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
