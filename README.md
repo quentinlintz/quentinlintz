@@ -14,6 +14,10 @@
 ## ✍🏻 &nbsp;What I'm Writing
 
 <!-- SUBSTACK:START -->
+- [Review: &quot;Cyrano de Bergerac&quot; by Edmond Rostand](https://universalset.substack.com/p/review-cyrano-de-bergerac-by-edmond)
+- [Review: &quot;Norwegian Wood&quot; by Haruki Murakami](https://universalset.substack.com/p/book-review-norwegian-wood-by-haruki)
+- [ChatGPT Tried Rewriting my Web App](https://universalset.substack.com/p/chatgpt-tried-rewriting-my-web-app)
+- [Will ChatGPT Kill Content Creation?](https://universalset.substack.com/p/chatgpt-the-end-of-original-content)
 <!-- SUBSTACK:END -->
 
 ## 📚 &nbsp;What I'm Reading
