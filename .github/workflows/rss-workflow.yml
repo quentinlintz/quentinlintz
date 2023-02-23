@@ -26,3 +26,4 @@ jobs:
           goodreads_user_id: '160841838'
           shelf: 'currently-reading'
           commit_message: 'Update Goodreads reading list'
+          template: '- [$title]($url) by $author ($published)'
