@@ -18,12 +18,11 @@
 ## ✍🏻 &nbsp;What I'm Writing
 
 <!-- SUBSTACK:START -->
-
+- [Create Synthetic Datasets with GPT](https://universalset.substack.com/p/create-synthetic-datasets-with-gpt)
 - [Clerk Webhooks for User Authentication](https://universalset.substack.com/p/clerk-webhooks-for-user-authentication)
 - [Introducing ChatML](https://universalset.substack.com/p/introducing-chatml)
 - [GitHub Profile READMEs and RSS Feeds](https://universalset.substack.com/p/github-profile-readmes-and-rss-feeds)
 - [Review: &quot;Cyrano de Bergerac&quot; by Edmond Rostand](https://universalset.substack.com/p/review-cyrano-de-bergerac-by-edmond)
-- [Review: &quot;Norwegian Wood&quot; by Haruki Murakami](https://universalset.substack.com/p/book-review-norwegian-wood-by-haruki)
 <!-- SUBSTACK:END -->
 
 ## 📚 &nbsp;What I'm Reading
