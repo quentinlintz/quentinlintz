@@ -28,6 +28,5 @@
 ## 📚 &nbsp;What I'm Reading
 
 <!-- GOODREADS:START -->
-- [The Psychology of Money: Timeless lessons on wealth, greed, and happiness](https://www.goodreads.com/review/show/5519099389?utm_medium=api&utm_source=rss) by Morgan Housel (2020)
 - [Atlas Shrugged](https://www.goodreads.com/review/show/5230094857?utm_medium=api&utm_source=rss) by Ayn Rand (1957)
 <!-- GOODREADS:END -->
