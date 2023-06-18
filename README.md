@@ -28,6 +28,6 @@
 ## 📚 &nbsp;What I'm Reading
 
 <!-- GOODREADS:START -->
-- [Health Design Thinking: Creating Products and Services for Better Health](https://www.goodreads.com/review/show/5587842662?utm_medium=api&utm_source=rss) by Bon Ku ()
+- [How Medicine Works and When It Doesn't: Learning Who to Trust to Get and Stay Healthy](https://www.goodreads.com/review/show/5610149348?utm_medium=api&utm_source=rss) by F. Perry Wilson MD (2023)
 - [Atlas Shrugged](https://www.goodreads.com/review/show/5230094857?utm_medium=api&utm_source=rss) by Ayn Rand (1957)
 <!-- GOODREADS:END -->
