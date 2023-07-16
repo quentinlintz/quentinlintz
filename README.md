@@ -18,11 +18,11 @@
 ## ✍🏻 &nbsp;What I'm Writing
 
 <!-- SUBSTACK:START -->
+- [The Magic of OAuth2: A Three-Act Tale](https://universalset.substack.com/p/the-magic-of-oauth2-a-three-act-tale)
 - [Isla Mae Lintz: My Daughter&#39;s Story](https://universalset.substack.com/p/isla-mae-lintz-my-daughters-story)
 - [Review: &quot;The Psychology of Money&quot; by Morgan Housel](https://universalset.substack.com/p/review-the-psychology-of-money-by)
 - [Create Synthetic Datasets with GPT](https://universalset.substack.com/p/create-synthetic-datasets-with-gpt)
 - [Clerk Webhooks for User Authentication](https://universalset.substack.com/p/clerk-webhooks-for-user-authentication)
-- [Introducing ChatML](https://universalset.substack.com/p/introducing-chatml)
 <!-- SUBSTACK:END -->
 
 ## 📚 &nbsp;What I'm Reading
