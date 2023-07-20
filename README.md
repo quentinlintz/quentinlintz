@@ -9,11 +9,11 @@
 
 ## 😄 &nbsp;Who I Am
 
-- 🔭 &nbsp;I’m currently working at [Calendly](https://calendly.com/)
-- 🌱 &nbsp;I’m currently learning how to build and serve NLP models and product management
-- 💬 &nbsp;Ask me about anything related to web development or philosophy
+- 🔭 &nbsp;I’m currently working at a stealth startup
+- 🌱 &nbsp;I’m currently learning new ways to apply LLMs to solve problems
+- 💬 &nbsp;Ask me about anything related to web development, AI, or philosophy
 - 👨‍💻 &nbsp;Subscribe to my Substack: [Universal Set](https://universalset.substack.com/)
-- ⚡ &nbsp;Fun fact: I love weightlifting 🏋️ skateboarding 🛹 and reading 📚
+- ⚡ &nbsp;Fun fact: I love weightlifting 🏋️ writing 🖊️ and books 📚
 
 ## ✍🏻 &nbsp;What I'm Writing
 
