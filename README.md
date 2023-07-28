@@ -28,6 +28,5 @@
 ## 📚 &nbsp;What I'm Reading
 
 <!-- GOODREADS:START -->
-- [Your Doctor Is Not In : Healthy Skepticism About National Health Care](https://www.goodreads.com/review/show/5696440080?utm_medium=api&utm_source=rss) by Jane M. Orient (1994)
 - [Atlas Shrugged](https://www.goodreads.com/review/show/5230094857?utm_medium=api&utm_source=rss) by Ayn Rand (1957)
 <!-- GOODREADS:END -->
