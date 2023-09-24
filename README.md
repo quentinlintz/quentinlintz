@@ -28,6 +28,5 @@
 ## 📚 &nbsp;What I'm Reading
 
 <!-- GOODREADS:START -->
-- [An Enemy of the People](https://www.goodreads.com/review/show/5760924498?utm_medium=api&utm_source=rss) by Henrik Ibsen (1882)
 - [Atlas Shrugged](https://www.goodreads.com/review/show/5230094857?utm_medium=api&utm_source=rss) by Ayn Rand (1957)
 <!-- GOODREADS:END -->
