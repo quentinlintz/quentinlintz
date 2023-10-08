@@ -18,11 +18,11 @@
 ## ✍🏻 &nbsp;What I'm Writing
 
 <!-- SUBSTACK:START -->
+- [Platformization in Healthcare](https://universalset.substack.com/p/platformization-in-healthcare)
 - [Indiana&#39;s Pharmacists &amp; Prescription Authority](https://universalset.substack.com/p/indianas-pharmacists-and-prescription)
 - [Review: &quot;An Enemy of the People&quot; by Henrik Ibsen](https://universalset.substack.com/p/review-an-enemy-of-the-people-by)
 - [The Magic of OAuth2: A Three-Act Tale](https://universalset.substack.com/p/the-magic-of-oauth2-a-three-act-tale)
 - [Isla Mae Lintz: My Daughter&#39;s Story](https://universalset.substack.com/p/isla-mae-lintz-my-daughters-story)
-- [Review: &quot;The Psychology of Money&quot; by Morgan Housel](https://universalset.substack.com/p/review-the-psychology-of-money-by)
 <!-- SUBSTACK:END -->
 
 ## 📚 &nbsp;What I'm Reading
