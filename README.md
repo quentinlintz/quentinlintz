@@ -28,6 +28,5 @@
 ## 📚 &nbsp;What I'm Reading
 
 <!-- GOODREADS:START -->
-- [Dance Dance Dance (The Rat, #4)](https://www.goodreads.com/review/show/5312782128?utm_medium=api&utm_source=rss) by Haruki Murakami (1988)
 - [Atlas Shrugged](https://www.goodreads.com/review/show/5230094857?utm_medium=api&utm_source=rss) by Ayn Rand (1957)
 <!-- GOODREADS:END -->
