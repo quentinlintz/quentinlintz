@@ -28,6 +28,7 @@
 ## 📚 &nbsp;What I'm Reading
 
 <!-- GOODREADS:START -->
+- [Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers](https://www.goodreads.com/review/show/5976169314?utm_medium=api&utm_source=rss) by Geoffrey A. Moore (2006)
 - [Objectivism: The Philosophy of Ayn Rand](https://www.goodreads.com/review/show/5907799301?utm_medium=api&utm_source=rss) by Leonard Peikoff (1991)
 - [Atlas Shrugged](https://www.goodreads.com/review/show/5230094857?utm_medium=api&utm_source=rss) by Ayn Rand (1957)
 <!-- GOODREADS:END -->
