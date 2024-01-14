@@ -28,6 +28,6 @@
 ## 📚 &nbsp;What I'm Reading
 
 <!-- GOODREADS:START -->
+- [Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers](https://www.goodreads.com/review/show/5976169314?utm_medium=api&utm_source=rss) by Geoffrey A. Moore (2006)
 - [Our Oriental Heritage (The Story of Civilization, #1)](https://www.goodreads.com/review/show/6033872271?utm_medium=api&utm_source=rss) by Will Durant (1935)
-- [Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers](https://www.goodreads.com/review/show/5976169314?utm_medium=api&utm_source=rss) by Geoffrey A. Moore (2006)
 <!-- GOODREADS:END -->
