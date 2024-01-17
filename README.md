@@ -15,11 +15,6 @@
 - 👨‍💻 &nbsp;Subscribe to my Substack: [Universal Set](https://universalset.substack.com/)
 - ⚡ &nbsp;Fun fact: I love weightlifting 🏋️ writing 🖊️ and books 📚
 
-## ✍🏻 &nbsp;What I'm Writing
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 📚 &nbsp;What I'm Reading
 
 <!-- GOODREADS:START -->
