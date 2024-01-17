@@ -17,13 +17,8 @@
 
 ## ✍🏻 &nbsp;What I'm Writing
 
-<!-- SUBSTACK:START -->
-- [What is Accountability?](https://universalset.substack.com/p/what-is-accountability)
-- [Review: &quot;Dance, Dance, Dance&quot; by Haruki Murakami](https://universalset.substack.com/p/review-dance-dance-dance-by-haruki)
-- [Platformization in Healthcare](https://universalset.substack.com/p/platformization-in-healthcare)
-- [Indiana&#39;s Pharmacists &amp; Prescription Authority](https://universalset.substack.com/p/indianas-pharmacists-and-prescription)
-- [Review: &quot;An Enemy of the People&quot; by Henrik Ibsen](https://universalset.substack.com/p/review-an-enemy-of-the-people-by)
-<!-- SUBSTACK:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 📚 &nbsp;What I'm Reading
 
