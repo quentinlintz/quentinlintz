@@ -18,7 +18,7 @@
 ## 📚 &nbsp;What I'm Reading
 
 <!-- GOODREADS:START -->
-- [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.goodreads.com/review/show/6097925818?utm_medium=api&utm_source=rss) by David  Farley ()
+- [Fundamentals of Applied Probability Theory](https://www.goodreads.com/review/show/6208384970?utm_medium=api&utm_source=rss) by Alvin W. Drake (1967)
 - [James J. Gibson and the Psychology of Perception](https://www.goodreads.com/review/show/6168507987?utm_medium=api&utm_source=rss) by Edward S. Reed (1989)
 - [Our Oriental Heritage (The Story of Civilization, #1)](https://www.goodreads.com/review/show/6033872271?utm_medium=api&utm_source=rss) by Will Durant (1935)
 <!-- GOODREADS:END -->
