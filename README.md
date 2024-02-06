@@ -28,6 +28,8 @@
 ## 📚 &nbsp;What I've Read
 
 <!-- GOODREADS-READ:START -->
+- [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.goodreads.com/review/show/6097925818?utm_medium=api&utm_source=rss) by David  Farley () ⭐⭐⭐⭐⭐
+- [Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers](https://www.goodreads.com/review/show/5976169314?utm_medium=api&utm_source=rss) by Geoffrey A. Moore (2006) ⭐⭐⭐⭐⭐
 <!-- GOODREADS-READ:END -->
 
 ## 📖 &nbsp;What I'm Reading
