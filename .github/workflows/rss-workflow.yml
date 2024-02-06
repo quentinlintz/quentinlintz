@@ -14,17 +14,27 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Pull Substack updates
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: 'SUBSTACK'
-          feed_list: 'https://universalset.substack.com/feed'
+          feed_list: 'https://universalset.substack.com/feed.xml'
           commit_message: 'Update Substack posts'
-          user_agent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
-      - name: Pull Goodreads updates
+      - name: Pull Goodreads read
         uses: zwacky/goodreads-profile-workflow@main
         with:
-          comment_tag_name: 'GOODREADS'
+          comment_tag_name: 'GOODREADS-READ'
+          goodreads_user_id: '160841838'
+          shelf: 'read'
+          commit_message: 'Update Goodreads read'
+          template: '- [$title]($url) by $author ($published_year) $my_rating_stars'
+          sort_by_fields: '>user_read_at'
+          max_books_count: '2'
+      - name: Pull Goodreads currently reading
+        uses: zwacky/goodreads-profile-workflow@main
+        with:
+          comment_tag_name: 'GOODREADS-CURRENTLY-READING'
           goodreads_user_id: '160841838'
           shelf: 'currently-reading'
-          commit_message: 'Update Goodreads reading list'
+          commit_message: 'Update Goodreads currently reading'
           template: '- [$title]($url) by $author ($published_year)'
+          sort_by_fields: '>user_date_added'

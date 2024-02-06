@@ -20,10 +20,15 @@
 <!-- SUBSTACK:START -->
 <!-- SUBSTACK:END -->
 
-## 📚 &nbsp;What I'm Reading
+## 📚 &nbsp;What I've Read
 
-<!-- GOODREADS:START -->
+<!-- GOODREADS-READ:START -->
+<!-- GOODREADS-READ:END -->
+
+## 📖 &nbsp;What I'm Reading
+
+<!-- GOODREADS-CURRENTLY-READING:START -->
 - [Fundamentals of Applied Probability Theory](https://www.goodreads.com/review/show/6208384970?utm_medium=api&utm_source=rss) by Alvin W. Drake (1967)
 - [James J. Gibson and the Psychology of Perception](https://www.goodreads.com/review/show/6168507987?utm_medium=api&utm_source=rss) by Edward S. Reed (1989)
 - [Our Oriental Heritage (The Story of Civilization, #1)](https://www.goodreads.com/review/show/6033872271?utm_medium=api&utm_source=rss) by Will Durant (1935)
-<!-- GOODREADS:END -->
+<!-- GOODREADS-CURRENTLY-READING:END -->
