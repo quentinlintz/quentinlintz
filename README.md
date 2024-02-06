@@ -9,11 +9,16 @@
 
 ## 😄 &nbsp;Who I Am
 
-- 🔭 &nbsp;I’m currently looking for a new software engineering role
+- 🔭 &nbsp;I’m currently a Full Stack Engineer III at [Calendly](https://calendly.com/)
 - 🌱 &nbsp;I’m currently learning about ancient civilizations, ecological psychology, and 한국어
 - 💬 &nbsp;Ask me about anything related to web development, AI, or philosophy
 - 👨‍💻 &nbsp;Subscribe to my Substack: [Universal Set](https://universalset.substack.com/)
 - ⚡ &nbsp;Fun fact: I love weightlifting 🏋️ writing 🖊️ and books 📚
+
+## ✍🏻 &nbsp;What I'm Writing
+
+<!-- SUBSTACK:START -->
+<!-- SUBSTACK:END -->
 
 ## 📚 &nbsp;What I'm Reading
 
