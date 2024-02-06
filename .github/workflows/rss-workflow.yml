@@ -13,12 +13,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Pull Substack updates
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: 'SUBSTACK'
-          feed_list: 'https://universalset.substack.com/feed.xml'
-          commit_message: 'Update Substack posts'
+      # - name: Pull Substack updates
+      #   uses: gautamkrishnar/blog-post-workflow@master
+      #   with:
+      #     comment_tag_name: 'SUBSTACK'
+      #     feed_list: 'https://universalset.substack.com/feed.xml'
+      #     commit_message: 'Update Substack posts'
       - name: Pull Goodreads read
         uses: zwacky/goodreads-profile-workflow@main
         with:
