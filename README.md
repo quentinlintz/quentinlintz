@@ -36,6 +36,5 @@
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
 - [Probability: An Introduction](https://www.goodreads.com/review/show/6286456373?utm_medium=api&utm_source=rss) by Samuel Goldberg (1987)
-- [South of the Border, West of the Sun](https://www.goodreads.com/review/show/6053104016?utm_medium=api&utm_source=rss) by Haruki Murakami (1992)
 - [Our Oriental Heritage (The Story of Civilization, #1)](https://www.goodreads.com/review/show/6033872271?utm_medium=api&utm_source=rss) by Will Durant (1935)
 <!-- GOODREADS-CURRENTLY-READING:END -->
