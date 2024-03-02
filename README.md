@@ -28,8 +28,9 @@
 ## 📚 &nbsp;What I've Read
 
 <!-- GOODREADS-READ:START -->
-- [South of the Border, West of the Sun](https://www.goodreads.com/review/show/6053104016?utm_medium=api&utm_source=rss) by Haruki Murakami (1992) ⭐⭐
-- [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.goodreads.com/review/show/6097925818?utm_medium=api&utm_source=rss) by David  Farley () ⭐⭐⭐⭐⭐
+- ⭐⭐ [South of the Border, West of the Sun](https://www.goodreads.com/review/show/6053104016?utm_medium=api&utm_source=rss) by Haruki Murakami
+- ⭐⭐⭐⭐⭐ [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.goodreads.com/review/show/6097925818?utm_medium=api&utm_source=rss) by David  Farley
+- ⭐⭐⭐⭐⭐ [Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers](https://www.goodreads.com/review/show/5976169314?utm_medium=api&utm_source=rss) by Geoffrey A. Moore
 <!-- GOODREADS-READ:END -->
 
 ## 📖 &nbsp;What I'm Reading
