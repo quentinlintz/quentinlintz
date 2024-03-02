@@ -26,9 +26,9 @@ jobs:
           goodreads_user_id: '160841838'
           shelf: 'read'
           commit_message: 'Update Goodreads read'
-          template: '- [$title]($url) by $author ($published_year) $my_rating_stars'
+          template: '- $my_rating_stars [$title]($url) by $author'
           sort_by_fields: '>user_read_at'
-          max_books_count: '2'
+          max_books_count: '3'
       - name: Pull Goodreads currently reading
         uses: zwacky/goodreads-profile-workflow@main
         with:
