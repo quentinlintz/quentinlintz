@@ -17,13 +17,8 @@
 
 ## ✍🏻 &nbsp;What I'm Writing
 
-<!-- SUBSTACK:START -->
-- [Review: "Modern Software Engineering" by David Farley](https://universalset.substack.com/p/review-modern-software-engineering)
-- [Demystifying Composition](https://universalset.substack.com/p/demystifying-composition)
-- [Review: "Crossing the Chasm" by Geoffrey A. Moore](https://universalset.substack.com/p/review-crossing-the-chasm-by-geoffrey)
-- [What is Accountability?](https://universalset.substack.com/p/what-is-accountability)
-- [Review: &quot;Dance, Dance, Dance&quot; by Haruki Murakami](https://universalset.substack.com/p/review-dance-dance-dance-by-haruki)
-<!-- SUBSTACK:END -->
+<!-- UNIVERSALSET:START -->
+<!-- UNIVERSALSET:END -->
 
 ## 📚 &nbsp;What I've Read
 
