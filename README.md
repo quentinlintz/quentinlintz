@@ -18,6 +18,7 @@
 ## ✍🏻 &nbsp;What I'm Writing
 
 <!-- UNIVERSALSET:START -->
+- [Text Classification and Bayes&#39; Theorem](https://quentinlintz.github.io/posts/text-classification-and-bayes-theorem/)
 <!-- UNIVERSALSET:END -->
 
 ## 📚 &nbsp;What I've Read
