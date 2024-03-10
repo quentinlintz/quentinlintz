@@ -32,6 +32,6 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [Probability: An Introduction](https://www.goodreads.com/review/show/6286456373?utm_medium=api&utm_source=rss) by Samuel Goldberg (1987)
-- [Our Oriental Heritage (The Story of Civilization, #1)](https://www.goodreads.com/review/show/6033872271?utm_medium=api&utm_source=rss) by Will Durant (1935)
+- [Probability: An Introduction](https://www.goodreads.com/review/show/6286456373?utm_medium=api&utm_source=rss), Samuel Goldberg (1987)
+- [Our Oriental Heritage (The Story of Civilization, #1)](https://www.goodreads.com/review/show/6033872271?utm_medium=api&utm_source=rss), Will Durant (1935)
 <!-- GOODREADS-CURRENTLY-READING:END -->
