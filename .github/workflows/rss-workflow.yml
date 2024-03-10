@@ -26,7 +26,7 @@ jobs:
           goodreads_user_id: '160841838'
           shelf: 'read'
           commit_message: 'Update Goodreads read'
-          template: '- [$title]($url), $author ($published_year)\nMy rating: $my_rating_stars'
+          template: '- [$title]($url) $my_rating_stars'
           sort_by_fields: '>user_read_at'
           max_books_count: '3'
       - name: Pull Goodreads currently reading
