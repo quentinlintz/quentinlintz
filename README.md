@@ -5,7 +5,7 @@
 </a>
 <a href="https://www.goodreads.com/user/show/160841838">![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quentinlintz&layout=donut-vertical&hide=html,css,shell,jupyter%20notebook&size_weight=0.5&count_weight=0.5&theme=tokyonight&show_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quentinlintz&layout=compact&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5&theme=tokyonight&show_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 😄 &nbsp;Who I Am
 
