@@ -32,6 +32,6 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [Probability: An Introduction](https://www.goodreads.com/review/show/6286456373?utm_medium=api&utm_source=rss), Samuel Goldberg (1987)
+- [Understanding Money Mechanics](https://www.goodreads.com/review/show/6358661616?utm_medium=api&utm_source=rss), Robert P. Murphy (2021)
 - [Our Oriental Heritage (The Story of Civilization, #1)](https://www.goodreads.com/review/show/6033872271?utm_medium=api&utm_source=rss), Will Durant (1935)
 <!-- GOODREADS-CURRENTLY-READING:END -->
