@@ -10,7 +10,7 @@
 ## 😄 &nbsp;Who I Am
 
 - 🔭 &nbsp;I’m currently a Full Stack Engineer III at [Calendly](https://calendly.com/)
-- 🌱 &nbsp;I’m currently learning about ancient civilizations, probability theory, and LLMs
+- 🌱 &nbsp;I’m currently learning about ancient India, the U.S. economy, and linear algebra
 - 💬 &nbsp;Ask me about anything related to web development, AI, or philosophy
 - 👨‍💻 &nbsp;Read my blog: [Universal Set](https://universalset.org/)
 - ⚡ &nbsp;Fun fact: I love weightlifting 🏋️ writing 🖊️ and books 📚
