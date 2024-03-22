@@ -27,6 +27,13 @@
 - [Probability: An Introduction](https://www.goodreads.com/review/show/6286456373?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [South of the Border, West of the Sun](https://www.goodreads.com/review/show/6053104016?utm_medium=api&utm_source=rss) ⭐⭐
 - [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.goodreads.com/review/show/6097925818?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
+- [Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers](https://www.goodreads.com/review/show/5976169314?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
+- [Objectivism: The Philosophy of Ayn Rand](https://www.goodreads.com/review/show/5907799301?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
+- [Atlas Shrugged](https://www.goodreads.com/review/show/5230094857?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
+- [Dance Dance Dance (The Rat, #4)](https://www.goodreads.com/review/show/5312782128?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
+- [An Enemy of the People](https://www.goodreads.com/review/show/5760924498?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
+- [How Medicine Works and When It Doesn't: Learning Who to Trust to Get and Stay Healthy](https://www.goodreads.com/review/show/5610149348?utm_medium=api&utm_source=rss) ⭐⭐⭐
+- [The Psychology of Money: Timeless lessons on wealth, greed, and happiness](https://www.goodreads.com/review/show/5519099389?utm_medium=api&utm_source=rss) ⭐⭐⭐
 <!-- GOODREADS-READ:END -->
 
 ## 📖 &nbsp;What I'm Reading
