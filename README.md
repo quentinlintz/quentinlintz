@@ -18,6 +18,7 @@
 ## ✍🏻 &nbsp;What I'm Writing
 
 <!-- UNIVERSALSET:START -->
+- [Analog Tools in a Digital World](https://quentinlintz.github.io/posts/analog-tools-in-a-digital-world/)
 - [Text Classification and Bayes&#39; Theorem](https://quentinlintz.github.io/posts/text-classification-and-bayes-theorem/)
 <!-- UNIVERSALSET:END -->
 
