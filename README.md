@@ -25,6 +25,7 @@
 ## 📚 &nbsp;What I've Read
 
 <!-- GOODREADS-READ:START -->
+- [Understanding Money Mechanics](https://www.goodreads.com/review/show/6358661616?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
 - [The Color of Magic (Discworld, #1)](https://www.goodreads.com/review/show/6351044354?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Probability: An Introduction](https://www.goodreads.com/review/show/6286456373?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [South of the Border, West of the Sun](https://www.goodreads.com/review/show/6053104016?utm_medium=api&utm_source=rss) ⭐⭐
@@ -34,7 +35,6 @@
 - [Atlas Shrugged](https://www.goodreads.com/review/show/5230094857?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [Dance Dance Dance (The Rat, #4)](https://www.goodreads.com/review/show/5312782128?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [An Enemy of the People](https://www.goodreads.com/review/show/5760924498?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
-- [How Medicine Works and When It Doesn't: Learning Who to Trust to Get and Stay Healthy](https://www.goodreads.com/review/show/5610149348?utm_medium=api&utm_source=rss) ⭐⭐⭐
 <!-- GOODREADS-READ:END -->
 
 ## 📖 &nbsp;What I'm Reading
