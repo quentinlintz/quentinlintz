@@ -25,6 +25,7 @@
 ## 📚 &nbsp;What I've Read
 
 <!-- GOODREADS-READ:START -->
+- [Elantris (Elantris, #1)](https://www.goodreads.com/review/show/6410362323?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
 - [Understanding Money Mechanics](https://www.goodreads.com/review/show/6358661616?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
 - [The Color of Magic (Discworld, #1)](https://www.goodreads.com/review/show/6351044354?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Probability: An Introduction](https://www.goodreads.com/review/show/6286456373?utm_medium=api&utm_source=rss) ⭐⭐⭐
@@ -34,7 +35,6 @@
 - [Objectivism: The Philosophy of Ayn Rand](https://www.goodreads.com/review/show/5907799301?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [Atlas Shrugged](https://www.goodreads.com/review/show/5230094857?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [Dance Dance Dance (The Rat, #4)](https://www.goodreads.com/review/show/5312782128?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
-- [An Enemy of the People](https://www.goodreads.com/review/show/5760924498?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 <!-- GOODREADS-READ:END -->
 
 ## 📖 &nbsp;What I'm Reading
