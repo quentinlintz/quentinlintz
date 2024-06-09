@@ -40,6 +40,7 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
+- [The Emperor's Soul (The Cosmere)](https://www.goodreads.com/review/show/6539355821?utm_medium=api&utm_source=rss), Brandon Sanderson (2012)
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/review/show/6495003472?utm_medium=api&utm_source=rss), Tanya Reilly (2022)
 - [Calculus: Early Transcendentals](https://www.goodreads.com/review/show/6395865398?utm_medium=api&utm_source=rss), James Stewart (1995)
 - [Our Oriental Heritage (The Story of Civilization, #1)](https://www.goodreads.com/review/show/6033872271?utm_medium=api&utm_source=rss), Will Durant (1935)
