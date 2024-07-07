@@ -39,6 +39,7 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
+- [Digital Design and Computer Architecture, RISC-V Edition: RISC-V Edition](https://www.goodreads.com/review/show/6618559440?utm_medium=api&utm_source=rss), Sarah Harris ()
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/review/show/6495003472?utm_medium=api&utm_source=rss), Tanya Reilly (2022)
 - [Mistborn: The Final Empire (The Mistborn Saga, #1)](https://www.goodreads.com/review/show/6596118358?utm_medium=api&utm_source=rss), Brandon Sanderson (2006)
 - [Calculus: Early Transcendentals](https://www.goodreads.com/review/show/6395865398?utm_medium=api&utm_source=rss), James Stewart (1995)
