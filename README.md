@@ -1,18 +1,18 @@
-# Hey there <a href="https://www.linkedin.com/in/quentinlintz/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"></a>
+# Hello! 👋
 
-<a href="https://www.linkedin.com/in/quentinlintz/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
-<a href="https://www.goodreads.com/user/show/160841838">![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)</a>
+   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentinlintz/)
+   [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/160841838)
+   [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/quentinlintz)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quentinlintz&layout=compact&hide=shell,css,html,tex&size_weight=0.5&count_weight=0.5&theme=catppuccin_mocha&show_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 😄 &nbsp;Who I Am
 
 - 🔭 &nbsp;I’m a Full Stack Engineer III at [Calendly](https://calendly.com/)
-- 🌱 &nbsp;This month, I'm refreshing my calculus and computer architecture skills!
-- 💬 &nbsp;Ask me about anything related to software development, AI, or philosophy
-- 👨‍💻 &nbsp;Read my blog: [Universal Set](https://universalset.org/)
-- ⚡ &nbsp;Fun fact: I love weightlifting 🏋️ writing 🖊️ and books 📚
+- 🌱 &nbsp;Currently doing RTL design and verification. Some RISC-V embedded projects.
+- 💬 &nbsp;Give me some book recommendations (building my TBR list) and your favorite albums
+- 👨‍💻 &nbsp;I write occasionally; visit my blog: [Universal Set](https://universalset.org/) (or see next section)
+- ⚡ &nbsp;Fun fact: I love weightlifting 🏋️guitar 🎸 and books 📚
 
 ## ✍🏻 &nbsp;What I'm Writing
 
