@@ -41,6 +41,5 @@
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
 - [The Wind-Up Bird Chronicle](https://www.goodreads.com/review/show/6517415206?utm_medium=api&utm_source=rss), Haruki Murakami (1994)
-- [Digital Design and Computer Architecture, RISC-V Edition: RISC-V Edition](https://www.goodreads.com/review/show/6618559440?utm_medium=api&utm_source=rss), Sarah Harris ()
 - [Our Oriental Heritage (The Story of Civilization, #1)](https://www.goodreads.com/review/show/6033872271?utm_medium=api&utm_source=rss), Will Durant (1935)
 <!-- GOODREADS-CURRENTLY-READING:END -->
