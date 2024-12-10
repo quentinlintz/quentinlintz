@@ -40,6 +40,6 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [The Wind-Up Bird Chronicle](https://www.goodreads.com/review/show/6517415206?utm_medium=api&utm_source=rss), Haruki Murakami (1994)
+- [Goth: A History](https://www.goodreads.com/review/show/7030433404?utm_medium=api&utm_source=rss), Lol Tolhurst (2023)
 - [Our Oriental Heritage (The Story of Civilization, #1)](https://www.goodreads.com/review/show/6033872271?utm_medium=api&utm_source=rss), Will Durant (1935)
 <!-- GOODREADS-CURRENTLY-READING:END -->
