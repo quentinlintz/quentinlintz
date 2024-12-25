@@ -25,6 +25,7 @@
 ## 📚 &nbsp;What I've Read
 
 <!-- GOODREADS-READ:START -->
+- [Goth: A History](https://www.goodreads.com/review/show/7030433404?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [The Strange Library](https://www.goodreads.com/review/show/6998722855?utm_medium=api&utm_source=rss) ⭐⭐
 - [The Wind-Up Bird Chronicle](https://www.goodreads.com/review/show/6517415206?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Digital Design and Computer Architecture, RISC-V Edition: RISC-V Edition](https://www.goodreads.com/review/show/6618559440?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
@@ -34,7 +35,6 @@
 - [Elantris (Elantris, #1)](https://www.goodreads.com/review/show/6410362323?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
 - [Understanding Money Mechanics](https://www.goodreads.com/review/show/6358661616?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
 - [The Color of Magic (Discworld, #1)](https://www.goodreads.com/review/show/6351044354?utm_medium=api&utm_source=rss) ⭐⭐⭐
-- [Probability: An Introduction](https://www.goodreads.com/review/show/6286456373?utm_medium=api&utm_source=rss) ⭐⭐⭐
 <!-- GOODREADS-READ:END -->
 
 ## 📖 &nbsp;What I'm Reading
