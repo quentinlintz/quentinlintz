@@ -40,6 +40,6 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [Monna Vanna: A Play in Three Acts](https://www.goodreads.com/review/show/7030433717?utm_medium=api&utm_source=rss), Maurice Maeterlinck (1902)
+- [Ring (Ring, #1)](https://www.goodreads.com/review/show/7122260902?utm_medium=api&utm_source=rss), Kōji Suzuki (1991)
 - [Our Oriental Heritage (The Story of Civilization, #1)](https://www.goodreads.com/review/show/6033872271?utm_medium=api&utm_source=rss), Will Durant (1935)
 <!-- GOODREADS-CURRENTLY-READING:END -->
