@@ -25,6 +25,7 @@
 ## 📚 &nbsp;What I've Read
 
 <!-- GOODREADS-READ:START -->
+- [Sputnik Sweetheart](https://www.goodreads.com/review/show/7134928078?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Monna Vanna: A Play in Three Acts](https://www.goodreads.com/review/show/7030433717?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Goth: A History](https://www.goodreads.com/review/show/7030433404?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [The Strange Library](https://www.goodreads.com/review/show/6998722855?utm_medium=api&utm_source=rss) ⭐⭐
@@ -34,7 +35,6 @@
 - [Mistborn: The Final Empire (The Mistborn Saga, #1)](https://www.goodreads.com/review/show/6596118358?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [The Emperor's Soul (The Cosmere)](https://www.goodreads.com/review/show/6539355821?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Elantris (Elantris, #1)](https://www.goodreads.com/review/show/6410362323?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
-- [Understanding Money Mechanics](https://www.goodreads.com/review/show/6358661616?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
 <!-- GOODREADS-READ:END -->
 
 ## 📖 &nbsp;What I'm Reading
