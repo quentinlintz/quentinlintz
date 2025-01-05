@@ -40,6 +40,6 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [Ring (Ring, #1)](https://www.goodreads.com/review/show/7122260902?utm_medium=api&utm_source=rss), Kōji Suzuki (1991)
+- [Novelist as a Vocation](https://www.goodreads.com/review/show/7148020402?utm_medium=api&utm_source=rss), Haruki Murakami (2015)
 - [Our Oriental Heritage (The Story of Civilization, #1)](https://www.goodreads.com/review/show/6033872271?utm_medium=api&utm_source=rss), Will Durant (1935)
 <!-- GOODREADS-CURRENTLY-READING:END -->
