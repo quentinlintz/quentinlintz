@@ -40,6 +40,6 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [Novelist as a Vocation](https://www.goodreads.com/review/show/7148020402?utm_medium=api&utm_source=rss), Haruki Murakami (2015)
+- [A Tale of Two Cities](https://www.goodreads.com/review/show/6888254760?utm_medium=api&utm_source=rss), Charles Dickens (1859)
 - [Our Oriental Heritage (The Story of Civilization, #1)](https://www.goodreads.com/review/show/6033872271?utm_medium=api&utm_source=rss), Will Durant (1935)
 <!-- GOODREADS-CURRENTLY-READING:END -->
