@@ -40,6 +40,7 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
+- [The 14th Moon](https://www.goodreads.com/review/show/7253706632?utm_medium=api&utm_source=rss), Lasse Lehtonen (2022)
 - [A Tale of Two Cities](https://www.goodreads.com/review/show/6888254760?utm_medium=api&utm_source=rss), Charles Dickens (1859)
 - [Our Oriental Heritage (The Story of Civilization, #1)](https://www.goodreads.com/review/show/6033872271?utm_medium=api&utm_source=rss), Will Durant (1935)
 <!-- GOODREADS-CURRENTLY-READING:END -->
