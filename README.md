@@ -25,6 +25,7 @@
 ## 📚 &nbsp;What I've Read
 
 <!-- GOODREADS-READ:START -->
+- [The 14th Moon](https://www.goodreads.com/review/show/7253706632?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [The Five Dysfunctions of a Team](https://www.goodreads.com/review/show/7264534826?utm_medium=api&utm_source=rss) ⭐⭐
 - [Novelist as a Vocation](https://www.goodreads.com/review/show/7148020402?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
 - [Sputnik Sweetheart](https://www.goodreads.com/review/show/7134928078?utm_medium=api&utm_source=rss) ⭐⭐⭐
@@ -34,7 +35,6 @@
 - [The Wind-Up Bird Chronicle](https://www.goodreads.com/review/show/6517415206?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Digital Design and Computer Architecture, RISC-V Edition: RISC-V Edition](https://www.goodreads.com/review/show/6618559440?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/review/show/6495003472?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
-- [Mistborn: The Final Empire (The Mistborn Saga, #1)](https://www.goodreads.com/review/show/6596118358?utm_medium=api&utm_source=rss) ⭐⭐⭐
 <!-- GOODREADS-READ:END -->
 
 ## 📖 &nbsp;What I'm Reading
