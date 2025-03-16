@@ -25,6 +25,7 @@
 ## 📚 &nbsp;What I've Read
 
 <!-- GOODREADS-READ:START -->
+- [A Tale of Two Cities](https://www.goodreads.com/review/show/6888254760?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [The 14th Moon](https://www.goodreads.com/review/show/7253706632?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [The Five Dysfunctions of a Team](https://www.goodreads.com/review/show/7264534826?utm_medium=api&utm_source=rss) ⭐⭐
 - [Novelist as a Vocation](https://www.goodreads.com/review/show/7148020402?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
@@ -34,7 +35,6 @@
 - [The Strange Library](https://www.goodreads.com/review/show/6998722855?utm_medium=api&utm_source=rss) ⭐⭐
 - [The Wind-Up Bird Chronicle](https://www.goodreads.com/review/show/6517415206?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Digital Design and Computer Architecture, RISC-V Edition: RISC-V Edition](https://www.goodreads.com/review/show/6618559440?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
-- [The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change](https://www.goodreads.com/review/show/6495003472?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 <!-- GOODREADS-READ:END -->
 
 ## 📖 &nbsp;What I'm Reading
