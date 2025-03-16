@@ -40,6 +40,7 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
+- [Spiral (Ring, #2)](https://www.goodreads.com/review/show/7253714521?utm_medium=api&utm_source=rss), Kōji Suzuki (1995)
 - [Les Misérables](https://www.goodreads.com/review/show/7399719671?utm_medium=api&utm_source=rss), Victor Hugo (1862)
 - [Our Oriental Heritage (The Story of Civilization, #1)](https://www.goodreads.com/review/show/6033872271?utm_medium=api&utm_source=rss), Will Durant (1935)
 <!-- GOODREADS-CURRENTLY-READING:END -->
