@@ -8,11 +8,11 @@
 
 ## 😄 &nbsp;Who I Am
 
-- 🔭 &nbsp;I’m a Full Stack Engineer III at [Calendly](https://calendly.com/)
-- 🌱 &nbsp;Currently doing RTL design and verification. Some RISC-V embedded projects.
-- 💬 &nbsp;Give me some book recommendations (building my TBR list) and your favorite albums
-- 👨‍💻 &nbsp;I write occasionally; visit my blog: [Universal Set](https://universalset.org/) (or see next section)
-- ⚡ &nbsp;Fun fact: I love weightlifting 🏋️guitar 🎸 and books 📚
+- 🔭 &nbsp;I’m a senior developer at [Calendly](https://calendly.com/)
+- 🌱 &nbsp;Currently writing and recording music, working on my next bench PR
+- 💬 &nbsp;I'm trying to improve my neovim flow. Any tips or helpful keystrokes?
+- 👨‍💻 &nbsp;I write (rarely); visit my blog: [Universal Set](https://universalset.org/)
+- ⚡ &nbsp;Fun fact: I love weightlifting 🏋️guitar 🎸 and books 📚 (add me on Goodreads)
 
 ## ✍🏻 &nbsp;What I'm Writing
 
