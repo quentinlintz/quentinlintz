@@ -40,7 +40,6 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [After Dark](https://www.goodreads.com/review/show/7549016505?utm_medium=api&utm_source=rss), Haruki Murakami (2004)
 - [Wuthering Heights](https://www.goodreads.com/review/show/7426006003?utm_medium=api&utm_source=rss), Emily Brontë (1847)
 - [Les Misérables](https://www.goodreads.com/review/show/7399719671?utm_medium=api&utm_source=rss), Victor Hugo (1862)
 - [Our Oriental Heritage (The Story of Civilization, #1)](https://www.goodreads.com/review/show/6033872271?utm_medium=api&utm_source=rss), Will Durant (1935)
