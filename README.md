@@ -25,6 +25,7 @@
 ## 📚 &nbsp;What I've Read
 
 <!-- GOODREADS-READ:START -->
+- [After Dark](https://www.goodreads.com/review/show/7549016505?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
 - [Spiral (Ring, #2)](https://www.goodreads.com/review/show/7253714521?utm_medium=api&utm_source=rss) ⭐
 - [A Tale of Two Cities](https://www.goodreads.com/review/show/6888254760?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [The 14th Moon](https://www.goodreads.com/review/show/7253706632?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
@@ -34,7 +35,6 @@
 - [Monna Vanna: A Play in Three Acts](https://www.goodreads.com/review/show/7030433717?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Goth: A History](https://www.goodreads.com/review/show/7030433404?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [The Strange Library](https://www.goodreads.com/review/show/6998722855?utm_medium=api&utm_source=rss) ⭐⭐
-- [The Wind-Up Bird Chronicle](https://www.goodreads.com/review/show/6517415206?utm_medium=api&utm_source=rss) ⭐⭐⭐
 <!-- GOODREADS-READ:END -->
 
 ## 📖 &nbsp;What I'm Reading
