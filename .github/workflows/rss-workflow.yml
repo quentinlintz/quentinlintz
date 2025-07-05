@@ -13,12 +13,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Pull Universal Set updates
-        uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: 'UNIVERSALSET'
-          feed_list: 'https://universalset.org/feed.xml'
-          commit_message: 'Update Universal Set posts'
       - name: Pull Goodreads read
         uses: zwacky/goodreads-profile-workflow@main
         with:
