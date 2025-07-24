@@ -3,7 +3,7 @@
    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quentinlintz/)
    [![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/160841838)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quentinlintz&layout=compact&hide=shell,css,html,tex&size_weight=0.5&count_weight=0.5&theme=catppuccin_mocha&show_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quentinlintz&layout=compact&hide=glsl,shell,css,html,tex&size_weight=0.5&count_weight=0.5&theme=catppuccin_mocha&show_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 😄 &nbsp;Who I Am
 
