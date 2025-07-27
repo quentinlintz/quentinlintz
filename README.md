@@ -30,7 +30,7 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
+- [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/review/show/7773022380?utm_medium=api&utm_source=rss), Camille Fournier (2017)
 - [Kafka on the Shore](https://www.goodreads.com/review/show/7136499152?utm_medium=api&utm_source=rss), Haruki Murakami (2002)
 - [Les Misérables](https://www.goodreads.com/review/show/7399719671?utm_medium=api&utm_source=rss), Victor Hugo (1862)
-- [Our Oriental Heritage (The Story of Civilization, #1)](https://www.goodreads.com/review/show/6033872271?utm_medium=api&utm_source=rss), Will Durant (1935)
 <!-- GOODREADS-CURRENTLY-READING:END -->
