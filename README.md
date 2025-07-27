@@ -15,6 +15,7 @@
 ## 📚 &nbsp;What I've Read
 
 <!-- GOODREADS-READ:START -->
+- [Our Oriental Heritage (The Story of Civilization, #1)](https://www.goodreads.com/review/show/6033872271?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Wuthering Heights](https://www.goodreads.com/review/show/7426006003?utm_medium=api&utm_source=rss) ⭐⭐
 - [After Dark](https://www.goodreads.com/review/show/7549016505?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
 - [Spiral (Ring, #2)](https://www.goodreads.com/review/show/7253714521?utm_medium=api&utm_source=rss) ⭐
@@ -24,7 +25,6 @@
 - [Novelist as a Vocation](https://www.goodreads.com/review/show/7148020402?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
 - [Sputnik Sweetheart](https://www.goodreads.com/review/show/7134928078?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Monna Vanna: A Play in Three Acts](https://www.goodreads.com/review/show/7030433717?utm_medium=api&utm_source=rss) ⭐⭐⭐
-- [Goth: A History](https://www.goodreads.com/review/show/7030433404?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 <!-- GOODREADS-READ:END -->
 
 ## 📖 &nbsp;What I'm Reading
