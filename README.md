@@ -30,6 +30,6 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
+- [High Fidelity](https://www.goodreads.com/review/show/7936602447?utm_medium=api&utm_source=rss), Nick Hornby (1995)
 - [Les Misérables](https://www.goodreads.com/review/show/7399719671?utm_medium=api&utm_source=rss), Victor Hugo (1862)
-- [Kafka on the Shore](https://www.goodreads.com/review/show/7136499152?utm_medium=api&utm_source=rss), Haruki Murakami (2002)
 <!-- GOODREADS-CURRENTLY-READING:END -->
