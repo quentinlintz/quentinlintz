@@ -30,6 +30,6 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [High Fidelity](https://www.goodreads.com/review/show/7936602447?utm_medium=api&utm_source=rss), Nick Hornby (1995)
+- [Cured: The Tale of Two Imaginary Boys](https://www.goodreads.com/review/show/7894852852?utm_medium=api&utm_source=rss), Lol Tolhurst (2016)
 - [Les Misérables](https://www.goodreads.com/review/show/7399719671?utm_medium=api&utm_source=rss), Victor Hugo (1862)
 <!-- GOODREADS-CURRENTLY-READING:END -->
