@@ -28,6 +28,5 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [Kitchen](https://www.goodreads.com/review/show/8181378752?utm_medium=api&utm_source=rss), Banana Yoshimoto (1988)
-- [Cured: The Tale of Two Imaginary Boys](https://www.goodreads.com/review/show/7894852852?utm_medium=api&utm_source=rss), Lol Tolhurst (2016)
+- [Writing Better Lyrics](https://www.goodreads.com/review/show/8218891237?utm_medium=api&utm_source=rss), Pat Pattison (1995)
 <!-- GOODREADS-CURRENTLY-READING:END -->
