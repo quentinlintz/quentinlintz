@@ -13,6 +13,8 @@
 ## 📚 &nbsp;What I've Read
 
 <!-- GOODREADS-READ:START -->
+- [Kitchen](https://www.goodreads.com/review/show/8181378752?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
+- [Cured: The Tale of Two Imaginary Boys](https://www.goodreads.com/review/show/7894852852?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [High Fidelity](https://www.goodreads.com/review/show/7936602447?utm_medium=api&utm_source=rss) ⭐⭐
 - [Kafka on the Shore](https://www.goodreads.com/review/show/7136499152?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/review/show/7773022380?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
@@ -21,8 +23,6 @@
 - [After Dark](https://www.goodreads.com/review/show/7549016505?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
 - [Spiral (Ring, #2)](https://www.goodreads.com/review/show/7253714521?utm_medium=api&utm_source=rss) ⭐
 - [A Tale of Two Cities](https://www.goodreads.com/review/show/6888254760?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
-- [The 14th Moon](https://www.goodreads.com/review/show/7253706632?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
-- [The Five Dysfunctions of a Team](https://www.goodreads.com/review/show/7264534826?utm_medium=api&utm_source=rss) ⭐⭐
 <!-- GOODREADS-READ:END -->
 
 ## 📖 &nbsp;What I'm Reading
