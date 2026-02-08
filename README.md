@@ -13,6 +13,8 @@
 ## 📚 &nbsp;What I've Read
 
 <!-- GOODREADS-READ:START -->
+- [Strange Weather in Tokyo](https://www.goodreads.com/review/show/8323980839?utm_medium=api&utm_source=rss) ⭐⭐⭐
+- [Colorless Tsukuru Tazaki and His Years of Pilgrimage](https://www.goodreads.com/review/show/8225081808?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
 - [Kitchen](https://www.goodreads.com/review/show/8181378752?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [Cured: The Tale of Two Imaginary Boys](https://www.goodreads.com/review/show/7894852852?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [High Fidelity](https://www.goodreads.com/review/show/7936602447?utm_medium=api&utm_source=rss) ⭐⭐
@@ -21,8 +23,6 @@
 - [Our Oriental Heritage (The Story of Civilization, #1)](https://www.goodreads.com/review/show/6033872271?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Wuthering Heights](https://www.goodreads.com/review/show/7426006003?utm_medium=api&utm_source=rss) ⭐⭐
 - [After Dark](https://www.goodreads.com/review/show/7549016505?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
-- [Spiral (Ring, #2)](https://www.goodreads.com/review/show/7253714521?utm_medium=api&utm_source=rss) ⭐
-- [A Tale of Two Cities](https://www.goodreads.com/review/show/6888254760?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 <!-- GOODREADS-READ:END -->
 
 ## 📖 &nbsp;What I'm Reading
