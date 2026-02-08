@@ -28,6 +28,6 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [Colorless Tsukuru Tazaki and His Years of Pilgrimage](https://www.goodreads.com/review/show/8225081808?utm_medium=api&utm_source=rss), Haruki Murakami (2013)
+- [The Sense of an Ending](https://www.goodreads.com/review/show/8336656149?utm_medium=api&utm_source=rss), Julian Barnes (2011)
 - [Writing Better Lyrics](https://www.goodreads.com/review/show/8218891237?utm_medium=api&utm_source=rss), Pat Pattison (1995)
 <!-- GOODREADS-CURRENTLY-READING:END -->
