@@ -28,5 +28,6 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
+- [Letters to a Young Poet](https://www.goodreads.com/review/show/8368721426?utm_medium=api&utm_source=rss), Rainer Maria Rilke (1929)
 - [Writing Better Lyrics](https://www.goodreads.com/review/show/8218891237?utm_medium=api&utm_source=rss), Pat Pattison (1995)
 <!-- GOODREADS-CURRENTLY-READING:END -->
