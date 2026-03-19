@@ -28,6 +28,5 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [The Memory Police](https://www.goodreads.com/review/show/8395578090?utm_medium=api&utm_source=rss), Yōko Ogawa (1994)
-- [Writing Better Lyrics](https://www.goodreads.com/review/show/8218891237?utm_medium=api&utm_source=rss), Pat Pattison (1995)
+- [Snow Country](https://www.goodreads.com/review/show/8421199249?utm_medium=api&utm_source=rss), Yasunari Kawabata (1948)
 <!-- GOODREADS-CURRENTLY-READING:END -->
