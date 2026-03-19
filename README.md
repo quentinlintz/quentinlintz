@@ -13,6 +13,7 @@
 ## 📚 &nbsp;What I've Read
 
 <!-- GOODREADS-READ:START -->
+- [Writing Better Lyrics](https://www.goodreads.com/review/show/8218891237?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [Letters to a Young Poet](https://www.goodreads.com/review/show/8368721426?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
 - [Strange Weather in Tokyo](https://www.goodreads.com/review/show/8323980839?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Colorless Tsukuru Tazaki and His Years of Pilgrimage](https://www.goodreads.com/review/show/8225081808?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
@@ -22,7 +23,6 @@
 - [Kafka on the Shore](https://www.goodreads.com/review/show/7136499152?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/review/show/7773022380?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
 - [Our Oriental Heritage (The Story of Civilization, #1)](https://www.goodreads.com/review/show/6033872271?utm_medium=api&utm_source=rss) ⭐⭐⭐
-- [Wuthering Heights](https://www.goodreads.com/review/show/7426006003?utm_medium=api&utm_source=rss) ⭐⭐
 <!-- GOODREADS-READ:END -->
 
 ## 📖 &nbsp;What I'm Reading
