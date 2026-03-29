@@ -28,5 +28,6 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
+- [Great Songwriting Techniques](https://www.goodreads.com/review/show/8421255733?utm_medium=api&utm_source=rss), Jack Perricone ()
 - [Snow Country](https://www.goodreads.com/review/show/8421199249?utm_medium=api&utm_source=rss), Yasunari Kawabata (1948)
 <!-- GOODREADS-CURRENTLY-READING:END -->
