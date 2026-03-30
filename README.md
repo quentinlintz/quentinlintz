@@ -28,6 +28,6 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
+- [The City and Its Uncertain Walls](https://www.goodreads.com/review/show/8478384206?utm_medium=api&utm_source=rss), Haruki Murakami (2023)
 - [Great Songwriting Techniques](https://www.goodreads.com/review/show/8421255733?utm_medium=api&utm_source=rss), Jack Perricone ()
-- [Snow Country](https://www.goodreads.com/review/show/8421199249?utm_medium=api&utm_source=rss), Yasunari Kawabata (1948)
 <!-- GOODREADS-CURRENTLY-READING:END -->
