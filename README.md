@@ -28,7 +28,6 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [Asleep](https://www.goodreads.com/review/show/8495595741?utm_medium=api&utm_source=rss), Banana Yoshimoto (1989)
 - [The City and Its Uncertain Walls](https://www.goodreads.com/review/show/8478384206?utm_medium=api&utm_source=rss), Haruki Murakami (2023)
 - [Great Songwriting Techniques](https://www.goodreads.com/review/show/8421255733?utm_medium=api&utm_source=rss), Jack Perricone ()
 <!-- GOODREADS-CURRENTLY-READING:END -->
