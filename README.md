@@ -28,6 +28,7 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
+- [Green Thoughts: A Writer in the Garden (Modern Library Gardening)](https://www.goodreads.com/review/show/8535585403?utm_medium=api&utm_source=rss), Eleanor Perényi (1981)
 - [The City and Its Uncertain Walls](https://www.goodreads.com/review/show/8478384206?utm_medium=api&utm_source=rss), Haruki Murakami (2023)
 - [Great Songwriting Techniques](https://www.goodreads.com/review/show/8421255733?utm_medium=api&utm_source=rss), Jack Perricone ()
 <!-- GOODREADS-CURRENTLY-READING:END -->
