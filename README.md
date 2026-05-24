@@ -28,6 +28,6 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [The City and Its Uncertain Walls](https://www.goodreads.com/review/show/8478384206?utm_medium=api&utm_source=rss), Haruki Murakami (2023)
+- [Love in the Time of Cholera](https://www.goodreads.com/review/show/8623967063?utm_medium=api&utm_source=rss), Gabriel García Márquez (1985)
 - [Great Songwriting Techniques](https://www.goodreads.com/review/show/8421255733?utm_medium=api&utm_source=rss), Jack Perricone ()
 <!-- GOODREADS-CURRENTLY-READING:END -->
