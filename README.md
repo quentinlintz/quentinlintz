@@ -13,6 +13,7 @@
 ## 📚 &nbsp;What I've Read
 
 <!-- GOODREADS-READ:START -->
+- [Love in the Time of Cholera](https://www.goodreads.com/review/show/8623967063?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [The City and Its Uncertain Walls](https://www.goodreads.com/review/show/8478384206?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
 - [Snow Country](https://www.goodreads.com/review/show/8421199249?utm_medium=api&utm_source=rss) ⭐⭐
 - [Writing Better Lyrics](https://www.goodreads.com/review/show/8218891237?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
@@ -22,7 +23,6 @@
 - [Kitchen](https://www.goodreads.com/review/show/8181378752?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [Cured: The Tale of Two Imaginary Boys](https://www.goodreads.com/review/show/7894852852?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [High Fidelity](https://www.goodreads.com/review/show/7936602447?utm_medium=api&utm_source=rss) ⭐⭐
-- [Kafka on the Shore](https://www.goodreads.com/review/show/7136499152?utm_medium=api&utm_source=rss) ⭐⭐⭐
 <!-- GOODREADS-READ:END -->
 
 ## 📖 &nbsp;What I'm Reading
