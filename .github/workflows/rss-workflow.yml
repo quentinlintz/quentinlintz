@@ -19,7 +19,6 @@ jobs:
           comment_tag_name: 'GOODREADS-READ'
           goodreads_user_id: '160841838'
           shelf: 'read'
-          commit_message: 'Update Goodreads read'
           template: '- [$title]($url) $my_rating_stars'
           sort_by_fields: '>user_read_at'
       - name: Pull Goodreads currently reading
@@ -28,6 +27,5 @@ jobs:
           comment_tag_name: 'GOODREADS-CURRENTLY-READING'
           goodreads_user_id: '160841838'
           shelf: 'currently-reading'
-          commit_message: 'Update Goodreads currently reading'
           template: '- [$title]($url), $author ($published_year)'
           sort_by_fields: '>user_date_added'
