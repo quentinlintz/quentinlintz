@@ -28,6 +28,5 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [Attached: The New Science of Adult Attachment and How It Can Help You Find—and Keep—Love](https://www.goodreads.com/review/show/8666277268?utm_medium=api&utm_source=rss), Amir Levine (2010)
 - [Great Songwriting Techniques](https://www.goodreads.com/review/show/8421255733?utm_medium=api&utm_source=rss), Jack Perricone ()
 <!-- GOODREADS-CURRENTLY-READING:END -->
