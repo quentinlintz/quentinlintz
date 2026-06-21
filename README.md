@@ -28,5 +28,7 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
+- [Stoner](https://www.goodreads.com/review/show/8701651425?utm_medium=api&utm_source=rss), John  Williams (1965)
+- [Self-Compassion: The Proven Power of Being Kind to Yourself](https://www.goodreads.com/review/show/8696722081?utm_medium=api&utm_source=rss), Kristin Neff (2011)
 - [Great Songwriting Techniques](https://www.goodreads.com/review/show/8421255733?utm_medium=api&utm_source=rss), Jack Perricone ()
 <!-- GOODREADS-CURRENTLY-READING:END -->
