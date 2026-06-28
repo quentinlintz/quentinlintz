@@ -29,6 +29,5 @@
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
 - [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.goodreads.com/review/show/8714351048?utm_medium=api&utm_source=rss), Michael Bungay Stanier (2016)
-- [Stoner](https://www.goodreads.com/review/show/8701651425?utm_medium=api&utm_source=rss), John  Williams (1965)
 - [Great Songwriting Techniques](https://www.goodreads.com/review/show/8421255733?utm_medium=api&utm_source=rss), Jack Perricone ()
 <!-- GOODREADS-CURRENTLY-READING:END -->
