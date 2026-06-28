@@ -13,6 +13,7 @@
 ## 📚 &nbsp;What I've Read
 
 <!-- GOODREADS-READ:START -->
+- [Self-Compassion: The Proven Power of Being Kind to Yourself](https://www.goodreads.com/review/show/8696722081?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Codependent No More: How to Stop Controlling Others and Start Caring for Yourself](https://www.goodreads.com/review/show/8685260479?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Attached: The New Science of Adult Attachment and How It Can Help You Find—and Keep—Love](https://www.goodreads.com/review/show/8666277268?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [Love in the Time of Cholera](https://www.goodreads.com/review/show/8623967063?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
@@ -22,7 +23,6 @@
 - [Letters to a Young Poet](https://www.goodreads.com/review/show/8368721426?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
 - [Strange Weather in Tokyo](https://www.goodreads.com/review/show/8323980839?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Colorless Tsukuru Tazaki and His Years of Pilgrimage](https://www.goodreads.com/review/show/8225081808?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
-- [Kitchen](https://www.goodreads.com/review/show/8181378752?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 <!-- GOODREADS-READ:END -->
 
 ## 📖 &nbsp;What I'm Reading
