@@ -28,6 +28,7 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.goodreads.com/review/show/8714351048?utm_medium=api&utm_source=rss), Michael Bungay Stanier (2016)
+- [The Transit of Venus](https://www.goodreads.com/review/show/8738657018?utm_medium=api&utm_source=rss), Shirley Hazzard (1980)
+- [Adult Children of Emotionally Immature Parents: How to Heal from Distant, Rejecting, or Self-Involved Parents](https://www.goodreads.com/review/show/8735325592?utm_medium=api&utm_source=rss), Lindsay C. Gibson (2015)
 - [Great Songwriting Techniques](https://www.goodreads.com/review/show/8421255733?utm_medium=api&utm_source=rss), Jack Perricone ()
 <!-- GOODREADS-CURRENTLY-READING:END -->
