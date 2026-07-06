@@ -13,6 +13,7 @@
 ## 📚 &nbsp;What I've Read
 
 <!-- GOODREADS-READ:START -->
+- [Adult Children of Emotionally Immature Parents: How to Heal from Distant, Rejecting, or Self-Involved Parents](https://www.goodreads.com/review/show/8735325592?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.goodreads.com/review/show/8714351048?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
 - [Stoner](https://www.goodreads.com/review/show/8701651425?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [Self-Compassion: The Proven Power of Being Kind to Yourself](https://www.goodreads.com/review/show/8696722081?utm_medium=api&utm_source=rss) ⭐⭐⭐
@@ -22,7 +23,6 @@
 - [The City and Its Uncertain Walls](https://www.goodreads.com/review/show/8478384206?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
 - [Snow Country](https://www.goodreads.com/review/show/8421199249?utm_medium=api&utm_source=rss) ⭐⭐
 - [Writing Better Lyrics](https://www.goodreads.com/review/show/8218891237?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
-- [Letters to a Young Poet](https://www.goodreads.com/review/show/8368721426?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
 <!-- GOODREADS-READ:END -->
 
 ## 📖 &nbsp;What I'm Reading
