@@ -28,7 +28,6 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [The Transit of Venus](https://www.goodreads.com/review/show/8738657018?utm_medium=api&utm_source=rss), Shirley Hazzard (1980)
-- [Adult Children of Emotionally Immature Parents: How to Heal from Distant, Rejecting, or Self-Involved Parents](https://www.goodreads.com/review/show/8735325592?utm_medium=api&utm_source=rss), Lindsay C. Gibson (2015)
+- [Crossing to Safety](https://www.goodreads.com/review/show/8744783712?utm_medium=api&utm_source=rss), Wallace Stegner (1987)
 - [Great Songwriting Techniques](https://www.goodreads.com/review/show/8421255733?utm_medium=api&utm_source=rss), Jack Perricone ()
 <!-- GOODREADS-CURRENTLY-READING:END -->
