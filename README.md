@@ -28,6 +28,6 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [Crossing to Safety](https://www.goodreads.com/review/show/8744783712?utm_medium=api&utm_source=rss), Wallace Stegner (1987)
+- [How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen](https://www.goodreads.com/review/show/8766471276?utm_medium=api&utm_source=rss), David  Brooks (2023)
 - [Great Songwriting Techniques](https://www.goodreads.com/review/show/8421255733?utm_medium=api&utm_source=rss), Jack Perricone ()
 <!-- GOODREADS-CURRENTLY-READING:END -->
