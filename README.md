@@ -13,6 +13,7 @@
 ## 📚 &nbsp;What I've Read
 
 <!-- GOODREADS-READ:START -->
+- [How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen](https://www.goodreads.com/review/show/8766471276?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Crossing to Safety (Modern Library Classics)](https://www.goodreads.com/review/show/8744783712?utm_medium=api&utm_source=rss) ⭐⭐
 - [Adult Children of Emotionally Immature Parents: How to Heal from Distant, Rejecting, or Self-Involved Parents](https://www.goodreads.com/review/show/8735325592?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.goodreads.com/review/show/8714351048?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
@@ -22,7 +23,6 @@
 - [Attached: The New Science of Adult Attachment and How It Can Help You Find—and Keep—Love](https://www.goodreads.com/review/show/8666277268?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [Love in the Time of Cholera](https://www.goodreads.com/review/show/8623967063?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [The City and Its Uncertain Walls](https://www.goodreads.com/review/show/8478384206?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
-- [Snow Country](https://www.goodreads.com/review/show/8421199249?utm_medium=api&utm_source=rss) ⭐⭐
 <!-- GOODREADS-READ:END -->
 
 ## 📖 &nbsp;What I'm Reading
