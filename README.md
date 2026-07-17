@@ -28,6 +28,6 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen](https://www.goodreads.com/review/show/8766471276?utm_medium=api&utm_source=rss), David  Brooks (2023)
+- [East of Eden](https://www.goodreads.com/review/show/8776314310?utm_medium=api&utm_source=rss), John Steinbeck (1952)
 - [Great Songwriting Techniques](https://www.goodreads.com/review/show/8421255733?utm_medium=api&utm_source=rss), Jack Perricone ()
 <!-- GOODREADS-CURRENTLY-READING:END -->
