@@ -28,6 +28,6 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [East of Eden](https://www.goodreads.com/review/show/8776314310?utm_medium=api&utm_source=rss), John Steinbeck (1952)
+- [The Lonely City: Adventures in the Art of Being Alone](https://www.goodreads.com/review/show/8794545370?utm_medium=api&utm_source=rss), Olivia Laing (2016)
 - [Great Songwriting Techniques](https://www.goodreads.com/review/show/8421255733?utm_medium=api&utm_source=rss), Jack Perricone ()
 <!-- GOODREADS-CURRENTLY-READING:END -->
