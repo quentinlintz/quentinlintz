@@ -13,6 +13,7 @@
 ## 📚 &nbsp;What I've Read
 
 <!-- GOODREADS-READ:START -->
+- [The Lonely City: Adventures in the Art of Being Alone](https://www.goodreads.com/review/show/8794545370?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [A Month in the Country](https://www.goodreads.com/review/show/8791248251?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen](https://www.goodreads.com/review/show/8766471276?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Crossing to Safety (Modern Library Classics)](https://www.goodreads.com/review/show/8744783712?utm_medium=api&utm_source=rss) ⭐⭐
@@ -22,7 +23,6 @@
 - [Self-Compassion: The Proven Power of Being Kind to Yourself](https://www.goodreads.com/review/show/8696722081?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Codependent No More: How to Stop Controlling Others and Start Caring for Yourself](https://www.goodreads.com/review/show/8685260479?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Attached: The New Science of Adult Attachment and How It Can Help You Find—and Keep—Love](https://www.goodreads.com/review/show/8666277268?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
-- [Love in the Time of Cholera](https://www.goodreads.com/review/show/8623967063?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 <!-- GOODREADS-READ:END -->
 
 ## 📖 &nbsp;What I'm Reading
