@@ -28,6 +28,6 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [The Lonely City: Adventures in the Art of Being Alone](https://www.goodreads.com/review/show/8794545370?utm_medium=api&utm_source=rss), Olivia Laing (2016)
+- [The Remains of the Day](https://www.goodreads.com/review/show/8808271711?utm_medium=api&utm_source=rss), Kazuo Ishiguro (1989)
 - [Great Songwriting Techniques](https://www.goodreads.com/review/show/8421255733?utm_medium=api&utm_source=rss), Jack Perricone ()
 <!-- GOODREADS-CURRENTLY-READING:END -->
