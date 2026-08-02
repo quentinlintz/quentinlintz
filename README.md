@@ -28,6 +28,5 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [The Remains of the Day](https://www.goodreads.com/review/show/8808271711?utm_medium=api&utm_source=rss), Kazuo Ishiguro (1989)
 - [Great Songwriting Techniques](https://www.goodreads.com/review/show/8421255733?utm_medium=api&utm_source=rss), Jack Perricone ()
 <!-- GOODREADS-CURRENTLY-READING:END -->
