@@ -13,6 +13,7 @@
 ## 📚 &nbsp;What I've Read
 
 <!-- GOODREADS-READ:START -->
+- [Just Kids](https://www.goodreads.com/review/show/8831784308?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Gilead (Gilead #1)](https://www.goodreads.com/review/show/8822849220?utm_medium=api&utm_source=rss) ⭐
 - [The Remains of the Day](https://www.goodreads.com/review/show/8808271711?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
 - [The Lonely City: Adventures in the Art of Being Alone](https://www.goodreads.com/review/show/8794545370?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
@@ -22,7 +23,6 @@
 - [Adult Children of Emotionally Immature Parents: How to Heal from Distant, Rejecting, or Self-Involved Parents](https://www.goodreads.com/review/show/8735325592?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 - [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.goodreads.com/review/show/8714351048?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
 - [Stoner](https://www.goodreads.com/review/show/8701651425?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
-- [Self-Compassion: The Proven Power of Being Kind to Yourself](https://www.goodreads.com/review/show/8696722081?utm_medium=api&utm_source=rss) ⭐⭐⭐
 <!-- GOODREADS-READ:END -->
 
 ## 📖 &nbsp;What I'm Reading
