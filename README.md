@@ -28,6 +28,6 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [Just Kids](https://www.goodreads.com/review/show/8831784308?utm_medium=api&utm_source=rss), Patti Smith (2010)
+- [The Plague](https://www.goodreads.com/review/show/8844956679?utm_medium=api&utm_source=rss), Albert Camus (1947)
 - [Great Songwriting Techniques](https://www.goodreads.com/review/show/8421255733?utm_medium=api&utm_source=rss), Jack Perricone ()
 <!-- GOODREADS-CURRENTLY-READING:END -->
