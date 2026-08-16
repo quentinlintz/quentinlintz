@@ -28,6 +28,6 @@
 ## 📖 &nbsp;What I'm Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [The Plague](https://www.goodreads.com/review/show/8844956679?utm_medium=api&utm_source=rss), Albert Camus (1947)
+- [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/8800157375?utm_medium=api&utm_source=rss), Gabrielle Zevin (2022)
 - [Great Songwriting Techniques](https://www.goodreads.com/review/show/8421255733?utm_medium=api&utm_source=rss), Jack Perricone ()
 <!-- GOODREADS-CURRENTLY-READING:END -->
