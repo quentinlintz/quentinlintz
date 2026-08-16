@@ -1,31 +1,36 @@
-name: RSS Workflow
+name: Sync Goodreads
+
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 0 * * 0' # Runs once per week
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  schedule:
+    - cron: '0 0 * * 0' # Weekly, Sundays at 00:00 UTC
+  workflow_dispatch:
+
 permissions:
-  contents: write # To write the generated contents to the readme
+  contents: write
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-reading:
+    name: Update README with Goodreads shelves
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
-      - name: Pull Goodreads read
-        uses: zwacky/goodreads-profile-workflow@main
-        with:
-          comment_tag_name: 'GOODREADS-READ'
-          goodreads_user_id: '160841838'
-          shelf: 'read'
-          template: '- [$title]($url) $my_rating_stars'
-          sort_by_fields: '>user_read_at'
-      - name: Pull Goodreads currently reading
-        uses: zwacky/goodreads-profile-workflow@main
+        uses: actions/checkout@v4
+
+      - name: Pull currently reading
+        uses: zwacky/goodreads-profile-workflow@v1.2.5
         with:
           comment_tag_name: 'GOODREADS-CURRENTLY-READING'
           goodreads_user_id: '160841838'
           shelf: 'currently-reading'
           template: '- [$title]($url), $author ($published_year)'
           sort_by_fields: '>user_date_added'
+
+      - name: Pull recently read
+        uses: zwacky/goodreads-profile-workflow@v1.2.5
+        with:
+          comment_tag_name: 'GOODREADS-READ'
+          goodreads_user_id: '160841838'
+          shelf: 'read'
+          template: '- [$title]($url) $my_rating_stars'
+          sort_by_fields: '>user_read_at'
+          max_books_count: '5'
