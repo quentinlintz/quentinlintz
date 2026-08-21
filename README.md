@@ -19,9 +19,9 @@ Outside of work I'm usually reading, playing guitar, or lifting. My listening la
 ### Recently Read
 
 <!-- GOODREADS-READ:START -->
+- [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/8800157375?utm_medium=api&utm_source=rss) ⭐⭐
 - [The Plague](https://www.goodreads.com/review/show/8844956679?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Just Kids](https://www.goodreads.com/review/show/8831784308?utm_medium=api&utm_source=rss) ⭐⭐⭐
 - [Gilead (Gilead #1)](https://www.goodreads.com/review/show/8822849220?utm_medium=api&utm_source=rss) ⭐
 - [The Remains of the Day](https://www.goodreads.com/review/show/8808271711?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐
-- [The Lonely City: Adventures in the Art of Being Alone](https://www.goodreads.com/review/show/8794545370?utm_medium=api&utm_source=rss) ⭐⭐⭐⭐⭐
 <!-- GOODREADS-READ:END -->
