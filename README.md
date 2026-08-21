@@ -11,7 +11,8 @@ Outside of work I'm usually reading, playing guitar, or lifting. My listening la
 ### Currently Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/8800157375?utm_medium=api&utm_source=rss), Gabrielle Zevin (2022)
+- [The Elements of Computing Systems: Building a Modern Computer from First Principles](https://www.goodreads.com/review/show/8876400854?utm_medium=api&utm_source=rss), Noam Nisan (2005)
+- [A Gentleman in Moscow](https://www.goodreads.com/review/show/8860071143?utm_medium=api&utm_source=rss), Amor Towles (2016)
 - [Great Songwriting Techniques](https://www.goodreads.com/review/show/8421255733?utm_medium=api&utm_source=rss), Jack Perricone ()
 <!-- GOODREADS-CURRENTLY-READING:END -->
 
