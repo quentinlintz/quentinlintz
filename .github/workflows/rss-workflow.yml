@@ -22,7 +22,7 @@ jobs:
           comment_tag_name: 'GOODREADS-CURRENTLY-READING'
           goodreads_user_id: '160841838'
           shelf: 'currently-reading'
-          template: '- [$title]($url), $author ($published_year)'
+          template: '- [$title]($url), $author'
           sort_by_fields: '>user_date_added'
 
       - name: Pull recently read
@@ -31,6 +31,38 @@ jobs:
           comment_tag_name: 'GOODREADS-READ'
           goodreads_user_id: '160841838'
           shelf: 'read'
-          template: '- [$title]($url) $my_rating_stars'
+          template: '- [$title]($url), $author ($my_rating/5)'
           sort_by_fields: '>user_read_at'
           max_books_count: '5'
+
+      - name: Render star ratings
+        run: |
+          python3 - <<'PY'
+          import re, pathlib
+
+          p = pathlib.Path("README.md")
+          s = p.read_text(encoding="utf-8")
+          START = "<!-- GOODREADS-READ:START -->"
+          END = "<!-- GOODREADS-READ:END -->"
+
+          def stars(m):
+              n = int(m.group(1))
+              return "" if n == 0 else " " + "★" * n + "☆" * (5 - n)
+
+          def block(m):
+              return m.group(1) + re.sub(r" ?\((\d)/5\)", stars, m.group(2)) + m.group(3)
+
+          out = re.sub(f"({re.escape(START)})(.*?)({re.escape(END)})", block, s, flags=re.S)
+          if out != s:
+              p.write_text(out, encoding="utf-8")
+          PY
+
+      - name: Commit star ratings
+        run: |
+          if [ -n "$(git status --porcelain README.md)" ]; then
+            git config user.name "goodreads-books-bot"
+            git config user.email "goodreads-books-bot@example.com"
+            git add README.md
+            git commit -m "Render Goodreads star ratings"
+            git push
+          fi

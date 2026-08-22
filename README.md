@@ -1,12 +1,10 @@
 # Quentin Lintz
 
-Software engineer and engineering leader — currently Tech Lead Manager at [Calendly](https://calendly.com/). Most of my time goes into thoughtful engineering, growing the people around me, and building teams I'd want to be on.
+Software engineer and engineering leader, currently Tech Lead Manager at [Calendly](https://calendly.com/). Most of my time goes into thoughtful engineering, growing the people around me, and building teams I'd want to be on.
 
 Outside of work I'm usually reading, playing guitar, or lifting. My listening lately leans heavily on Japanese City Pop and kayōkyoku.
 
 [LinkedIn](https://www.linkedin.com/in/quentinlintz/) · [Goodreads](https://www.goodreads.com/user/show/160841838)
-
----
 
 ### Currently Reading
 
