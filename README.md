@@ -15,9 +15,9 @@ Outside of work I'm usually reading, playing guitar, or lifting. My listening la
 ### Recently Read
 
 <!-- GOODREADS-READ:START -->
-- [Great Songwriting Techniques](https://www.goodreads.com/review/show/8421255733?utm_medium=api&utm_source=rss), Jack Perricone (5/5)
-- [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/8800157375?utm_medium=api&utm_source=rss), Gabrielle Zevin (2/5)
-- [The Plague](https://www.goodreads.com/review/show/8844956679?utm_medium=api&utm_source=rss), Albert Camus (3/5)
-- [Just Kids](https://www.goodreads.com/review/show/8831784308?utm_medium=api&utm_source=rss), Patti Smith (3/5)
-- [Gilead (Gilead #1)](https://www.goodreads.com/review/show/8822849220?utm_medium=api&utm_source=rss), Marilynne Robinson (1/5)
+- [Great Songwriting Techniques](https://www.goodreads.com/review/show/8421255733?utm_medium=api&utm_source=rss), Jack Perricone ★★★★★
+- [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/8800157375?utm_medium=api&utm_source=rss), Gabrielle Zevin ★★☆☆☆
+- [The Plague](https://www.goodreads.com/review/show/8844956679?utm_medium=api&utm_source=rss), Albert Camus ★★★☆☆
+- [Just Kids](https://www.goodreads.com/review/show/8831784308?utm_medium=api&utm_source=rss), Patti Smith ★★★☆☆
+- [Gilead (Gilead #1)](https://www.goodreads.com/review/show/8822849220?utm_medium=api&utm_source=rss), Marilynne Robinson ★☆☆☆☆
 <!-- GOODREADS-READ:END -->
