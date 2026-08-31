@@ -10,7 +10,6 @@ Outside of work I'm usually reading, playing guitar, or lifting. My listening la
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
 - [A Gentleman in Moscow](https://www.goodreads.com/review/show/8860071143?utm_medium=api&utm_source=rss), Amor Towles
-- [Great Songwriting Techniques](https://www.goodreads.com/review/show/8421255733?utm_medium=api&utm_source=rss), Jack Perricone
 <!-- GOODREADS-CURRENTLY-READING:END -->
 
 ### Recently Read
