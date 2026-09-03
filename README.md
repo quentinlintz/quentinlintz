@@ -9,7 +9,7 @@ Outside of work I'm usually reading, playing guitar, or lifting. My listening la
 ### Currently Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [The Autobiography of Benjamin Franklin](https://www.goodreads.com/review/show/8912679029?utm_medium=api&utm_source=rss), Benjamin Franklin
+- [The Red and the Black](https://www.goodreads.com/review/show/8915636455?utm_medium=api&utm_source=rss), Stendhal
 <!-- GOODREADS-CURRENTLY-READING:END -->
 
 ### Recently Read
