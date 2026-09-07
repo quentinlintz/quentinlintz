@@ -9,8 +9,8 @@ Outside of work I'm usually reading, playing guitar, or lifting. My listening la
 ### Currently Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
+- [The Sea, the Sea](https://www.goodreads.com/review/show/8924474238?utm_medium=api&utm_source=rss), Iris Murdoch
 - [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/review/show/8889919757?utm_medium=api&utm_source=rss), Martin Kleppmann
-- [The Red and the Black](https://www.goodreads.com/review/show/8915636455?utm_medium=api&utm_source=rss), Stendhal
 <!-- GOODREADS-CURRENTLY-READING:END -->
 
 ### Recently Read
