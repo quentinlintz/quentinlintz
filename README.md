@@ -9,16 +9,16 @@ Outside of work I'm usually reading, playing guitar, or lifting. My listening la
 ### Currently Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/review/show/8889919757?utm_medium=api&utm_source=rss), Martin Kleppmann
-- [The Sea, the Sea](https://www.goodreads.com/review/show/8924474238?utm_medium=api&utm_source=rss), Iris Murdoch
+- [Designing Data\-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/248156714), Martin Kleppmann
+- [The Sea, the Sea](https://www.goodreads.com/book/show/9843479), Iris Murdoch
 <!-- GOODREADS-CURRENTLY-READING:END -->
 
 ### Recently Read
 
 <!-- GOODREADS-READ:START -->
-- [A Gentleman in Moscow](https://www.goodreads.com/review/show/8860071143?utm_medium=api&utm_source=rss), Amor Towles ★★★☆☆
-- [Great Songwriting Techniques](https://www.goodreads.com/review/show/8421255733?utm_medium=api&utm_source=rss), Jack Perricone ★★★★★
-- [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/review/show/8800157375?utm_medium=api&utm_source=rss), Gabrielle Zevin ★★☆☆☆
-- [The Plague](https://www.goodreads.com/review/show/8844956679?utm_medium=api&utm_source=rss), Albert Camus ★★★☆☆
-- [Just Kids](https://www.goodreads.com/review/show/8831784308?utm_medium=api&utm_source=rss), Patti Smith ★★★☆☆
+- [A Gentleman in Moscow](https://www.goodreads.com/book/show/45695810), Amor Towles ★★★☆☆
+- [Great Songwriting Techniques](https://www.goodreads.com/book/show/39704081), Jack Perricone ★★★★★
+- [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/book/show/77262337), Gabrielle Zevin ★★☆☆☆
+- [The Plague](https://www.goodreads.com/book/show/58715115), Albert Camus ★★★☆☆
+- [Just Kids](https://www.goodreads.com/book/show/32315914), Patti Smith ★★★☆☆
 <!-- GOODREADS-READ:END -->
