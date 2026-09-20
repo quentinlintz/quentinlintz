@@ -2,11 +2,15 @@ name: Sync Goodreads
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # Weekly, Sundays at 00:00 UTC
+    - cron: "0 0 * * 0" # Weekly, Sundays at 00:00 UTC
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   update-reading:
@@ -17,52 +21,31 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Pull currently reading
-        uses: zwacky/goodreads-profile-workflow@v1.2.5
+        uses: quentinlintz/goodreads-readme-action@main
         with:
-          comment_tag_name: 'GOODREADS-CURRENTLY-READING'
-          goodreads_user_id: '160841838'
-          shelf: 'currently-reading'
-          template: '- [$title]($url), $author'
-          sort_by_fields: '>user_date_added'
+          goodreads-user-id: 160841838
+          shelf: currently-reading
+          section: GOODREADS-CURRENTLY-READING
+          sort: date-added
+          show-rating: false
+          max-books: 5
 
       - name: Pull recently read
-        uses: zwacky/goodreads-profile-workflow@v1.2.5
+        uses: quentinlintz/goodreads-readme-action@main
         with:
-          comment_tag_name: 'GOODREADS-READ'
-          goodreads_user_id: '160841838'
-          shelf: 'read'
-          template: '- [$title]($url), $author ($my_rating/5)'
-          sort_by_fields: '>user_read_at'
-          max_books_count: '5'
+          goodreads-user-id: 160841838
+          shelf: read
+          section: GOODREADS-READ
+          sort: date-read
+          show-rating: true
+          max-books: 5
 
-      - name: Render star ratings
-        run: |
-          python3 - <<'PY'
-          import re, pathlib
-
-          p = pathlib.Path("README.md")
-          s = p.read_text(encoding="utf-8")
-          START = "<!-- GOODREADS-READ:START -->"
-          END = "<!-- GOODREADS-READ:END -->"
-
-          def stars(m):
-              n = int(m.group(1))
-              return "" if n == 0 else " " + "★" * n + "☆" * (5 - n)
-
-          def block(m):
-              return m.group(1) + re.sub(r" ?\((\d)/5\)", stars, m.group(2)) + m.group(3)
-
-          out = re.sub(f"({re.escape(START)})(.*?)({re.escape(END)})", block, s, flags=re.S)
-          if out != s:
-              p.write_text(out, encoding="utf-8")
-          PY
-
-      - name: Commit star ratings
+      - name: Commit Goodreads shelves
         run: |
           if [ -n "$(git status --porcelain README.md)" ]; then
             git config user.name "goodreads-books-bot"
             git config user.email "goodreads-books-bot@example.com"
             git add README.md
-            git commit -m "Render Goodreads star ratings"
+            git commit -m "Render Goodreads shelves"
             git push
           fi
