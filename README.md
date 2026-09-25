@@ -14,18 +14,18 @@ Outside of work I'm usually reading, playing guitar, or lifting. My listening la
 ### Currently Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
+- [Piranesi](https://www.goodreads.com/book/show/52702097), Susanna Clarke
 - [Designing Data\-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/248156714), Martin Kleppmann
-- [The Sea, the Sea](https://www.goodreads.com/book/show/9843479), Iris Murdoch
 <!-- GOODREADS-CURRENTLY-READING:END -->
 
 ### Recently Read
 
 <!-- GOODREADS-READ:START -->
+- [The Sea, the Sea](https://www.goodreads.com/book/show/9843479), Iris Murdoch ★★★★★
 - [A Gentleman in Moscow](https://www.goodreads.com/book/show/45695810), Amor Towles ★★★☆☆
 - [Great Songwriting Techniques](https://www.goodreads.com/book/show/39704081), Jack Perricone ★★★★★
 - [Tomorrow, and Tomorrow, and Tomorrow](https://www.goodreads.com/book/show/77262337), Gabrielle Zevin ★★☆☆☆
 - [The Plague](https://www.goodreads.com/book/show/58715115), Albert Camus ★★★☆☆
-- [Just Kids](https://www.goodreads.com/book/show/32315914), Patti Smith ★★★☆☆
 <!-- GOODREADS-READ:END -->
 
 ### On Repeat
