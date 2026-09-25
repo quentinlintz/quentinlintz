@@ -6,6 +6,11 @@ Outside of work I'm usually reading, playing guitar, or lifting. My listening la
 
 [LinkedIn](https://www.linkedin.com/in/quentinlintz/) · [Goodreads](https://www.goodreads.com/user/show/160841838)
 
+### Currently Exploring
+
+- Learning about database replication
+- Practicing the solo to "Asayake" by Casiopea for my city pop band.
+
 ### Currently Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
@@ -22,3 +27,9 @@ Outside of work I'm usually reading, playing guitar, or lifting. My listening la
 - [The Plague](https://www.goodreads.com/book/show/58715115), Albert Camus ★★★☆☆
 - [Just Kids](https://www.goodreads.com/book/show/32315914), Patti Smith ★★★☆☆
 <!-- GOODREADS-READ:END -->
+
+### On Repeat
+
+![Moonglow - Tatsuro Yamashita](./album.jpg)
+
+[Moonglow by Tatsuro Yamashita](https://www.youtube.com/watch?v=sF0jiSSLfP4&list=PLHzplZi9LQ3Q) is my favorite of his albums. The long guitar solo in "Hot Shot" is unforgettable, and "愛を描いて (Let's Kiss The Sun)" never fails to lift my mood 🌞 Most of the lyrics were written by Minako Yoshida. She also does background vocals on many of his albums. Her own albums are well worth a listen, too.
