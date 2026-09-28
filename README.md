@@ -17,7 +17,6 @@ Outside of work I'm usually reading, playing guitar, or lifting. My listening la
   <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
   <img alt="Langauge distribution across my public repos" src="./profile/top-langs-light.svg">
 </picture>
-(Based on my public repos)
 
 ### Currently Reading
 
