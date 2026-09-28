@@ -11,6 +11,14 @@ Outside of work I'm usually reading, playing guitar, or lifting. My listening la
 - Learning about database replication
 - Practicing the solo to "Asayake" by Casiopea for my city pop band.
 
+### Languages
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+  <img alt="Langauge distribution across my public repos" src="./profile/top-langs-light.svg">
+</picture>
+(Based on my public repos)
+
 ### Currently Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
