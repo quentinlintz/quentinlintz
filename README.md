@@ -21,17 +21,18 @@ Outside of work I'm usually reading, playing guitar, or lifting. My listening la
 ### Currently Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
+- [Possession](https://www.goodreads.com/book/show/19172275), A\.S\. Byatt
 - [Designing Data\-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/248156714), Martin Kleppmann
 <!-- GOODREADS-CURRENTLY-READING:END -->
 
 ### Recently Read
 
 <!-- GOODREADS-READ:START -->
-- [Martin Eden](https://www.goodreads.com/book/show/19442028), Jack London ★☆☆☆☆
+- [The Hobbit \(Middle Earth, \#0\)](https://www.goodreads.com/book/show/38819529), J\.R\.R\. Tolkien ★★★☆☆
+- [Martin Eden](https://www.goodreads.com/book/show/929782), Jack London ★☆☆☆☆
 - [Piranesi](https://www.goodreads.com/book/show/52702097), Susanna Clarke ★★☆☆☆
 - [The Sea, the Sea](https://www.goodreads.com/book/show/9843479), Iris Murdoch ★★★★★
 - [A Gentleman in Moscow](https://www.goodreads.com/book/show/45695810), Amor Towles ★★★☆☆
-- [Great Songwriting Techniques](https://www.goodreads.com/book/show/39704081), Jack Perricone ★★★★★
 <!-- GOODREADS-READ:END -->
 
 ### On Repeat
