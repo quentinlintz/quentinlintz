@@ -28,11 +28,11 @@ Outside of work I'm usually reading, playing guitar, or lifting. My listening la
 ### Recently Read
 
 <!-- GOODREADS-READ:START -->
-- [The Hobbit \(Middle Earth, \#0\)](https://www.goodreads.com/book/show/38819529), J\.R\.R\. Tolkien ★★★☆☆
-- [Martin Eden](https://www.goodreads.com/book/show/929782), Jack London ★☆☆☆☆
-- [Piranesi](https://www.goodreads.com/book/show/52702097), Susanna Clarke ★★☆☆☆
-- [The Sea, the Sea](https://www.goodreads.com/book/show/9843479), Iris Murdoch ★★★★★
-- [A Gentleman in Moscow](https://www.goodreads.com/book/show/45695810), Amor Towles ★★★☆☆
+- [The Hobbit \(Middle Earth, \#0\)](https://www.goodreads.com/book/show/38819529), J\.R\.R\. Tolkien ★★★☆☆ (3/5)
+- [Martin Eden](https://www.goodreads.com/book/show/929782), Jack London ★☆☆☆☆ (1/5)
+- [Piranesi](https://www.goodreads.com/book/show/52702097), Susanna Clarke ★★☆☆☆ (2/5)
+- [The Sea, the Sea](https://www.goodreads.com/book/show/9843479), Iris Murdoch ★★★★★ (5/5)
+- [A Gentleman in Moscow](https://www.goodreads.com/book/show/45695810), Amor Towles ★★★☆☆ (3/5)
 <!-- GOODREADS-READ:END -->
 
 ### On Repeat
