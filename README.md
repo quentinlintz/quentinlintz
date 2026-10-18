@@ -21,6 +21,7 @@ Outside of work I'm usually reading, playing guitar, or lifting. My listening la
 ### Currently Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
+- [The Fisherman](https://www.goodreads.com/book/show/29901930), John  Langan
 - [Possession](https://www.goodreads.com/book/show/19172275), A\.S\. Byatt
 - [Designing Data\-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/248156714), Martin Kleppmann
 <!-- GOODREADS-CURRENTLY-READING:END -->
