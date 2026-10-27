@@ -8,8 +8,9 @@ Outside of work I'm usually reading, playing guitar, or lifting. My listening la
 
 ### Currently Exploring
 
-- Learning about database replication
-- Practicing the solo to "Asayake" by Casiopea for my city pop band.
+- How to help a team do its best work as I grow from engineer into engineering leadership.
+- What makes data systems reliable, with DDIA open beside a project in Go.
+- How to turn a musical idea into a finished song.
 
 ### Languages
 
