@@ -21,7 +21,7 @@ jobs:
         uses: actions/checkout@v7
 
       - name: Pull currently reading
-        uses: quentinlintz/goodreads-readme-action@v1.0.1
+        uses: quentinlintz/goodreads-readme-action@18e8182c374c7510095b1a65c31008ac625808ac
         with:
           goodreads-user-id: 160841838
           shelf: currently-reading
@@ -31,7 +31,7 @@ jobs:
           max-books: 5
 
       - name: Pull recently read
-        uses: quentinlintz/goodreads-readme-action@v1.0.1
+        uses: quentinlintz/goodreads-readme-action@18e8182c374c7510095b1a65c31008ac625808ac
         with:
           goodreads-user-id: 160841838
           shelf: read
