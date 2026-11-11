@@ -22,18 +22,18 @@ Outside of work I'm usually reading, playing guitar, or lifting. My listening la
 ### Currently Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [Possession](https://www.goodreads.com/book/show/19172275), A\.S\. Byatt
-- [Designing Data\-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/book/show/248156714), Martin Kleppmann
+- [The Black Prince](https://www.goodreads.com/review/show/9046024131), Iris Murdoch
+- [Designing Data\-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/review/show/8889919757), Martin Kleppmann
 <!-- GOODREADS-CURRENTLY-READING:END -->
 
 ### Recently Read
 
 <!-- GOODREADS-READ:START -->
-- [The Fisherman](https://www.goodreads.com/book/show/29901930), John  Langan ★★★★☆ (4/5)
-- [Show Your Work\!: 10 Ways to Share Your Creativity and Get Discovered \(Austin Kleon\)](https://www.goodreads.com/book/show/20874659), Austin Kleon ★★★★★ (5/5)
-- [The Hobbit \(Middle Earth, \#0\)](https://www.goodreads.com/book/show/38819529), J\.R\.R\. Tolkien ★★★☆☆ (3/5)
-- [Martin Eden](https://www.goodreads.com/book/show/929782), Jack London ★☆☆☆☆ (1/5)
-- [Piranesi](https://www.goodreads.com/book/show/52702097), Susanna Clarke ★★☆☆☆ (2/5)
+- [The Fisherman](https://www.goodreads.com/review/show/9030365344), John  Langan ★★★★☆ (4/5)
+- [Show Your Work\!: 10 Ways to Share Your Creativity and Get Discovered](https://www.goodreads.com/review/show/9021062245), Austin Kleon ★★★★★ (5/5)
+- [The Hobbit](https://www.goodreads.com/review/show/8980887441), J\.R\.R\. Tolkien ★★★☆☆ (3/5)
+- [Martin Eden](https://www.goodreads.com/review/show/8980726689), Jack London ★☆☆☆☆ (1/5)
+- [Piranesi](https://www.goodreads.com/review/show/8972224296), Susanna Clarke ★★☆☆☆ (2/5)
 <!-- GOODREADS-READ:END -->
 
 ### On Repeat
