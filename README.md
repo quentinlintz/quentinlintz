@@ -22,17 +22,18 @@ Outside of work I'm usually reading, playing guitar, or lifting. My listening la
 ### Currently Reading
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
-- [Designing Data\-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/review/show/8889919757), Martin Kleppmann
+- [The Bell](https://www.goodreads.com/review/show/9100167550), Iris Murdoch
+- [Effective C, 2nd Edition: An Introduction to Professional C Programming](https://www.goodreads.com/review/show/9090782744), Robert C\. Seacord
 <!-- GOODREADS-CURRENTLY-READING:END -->
 
 ### Recently Read
 
 <!-- GOODREADS-READ:START -->
+- [Designing Data\-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.goodreads.com/review/show/8889919757), Martin Kleppmann ★★★★☆ (4/5)
 - [The Black Prince](https://www.goodreads.com/review/show/9046024131), Iris Murdoch ★★★★★ (5/5)
 - [The Fisherman](https://www.goodreads.com/review/show/9030365344), John  Langan ★★★★☆ (4/5)
 - [Show Your Work\!: 10 Ways to Share Your Creativity and Get Discovered](https://www.goodreads.com/review/show/9021062245), Austin Kleon ★★★★★ (5/5)
 - [The Hobbit](https://www.goodreads.com/review/show/8980887441), J\.R\.R\. Tolkien ★★★☆☆ (3/5)
-- [Martin Eden](https://www.goodreads.com/review/show/8980726689), Jack London ★☆☆☆☆ (1/5)
 <!-- GOODREADS-READ:END -->
 
 ### On Repeat
