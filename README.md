@@ -23,7 +23,6 @@ Outside of work I'm usually reading, playing guitar, or lifting. My listening la
 
 <!-- GOODREADS-CURRENTLY-READING:START -->
 - [The Bell](https://www.goodreads.com/review/show/9100167550), Iris Murdoch
-- [Effective C, 2nd Edition: An Introduction to Professional C Programming](https://www.goodreads.com/review/show/9090782744), Robert C\. Seacord
 <!-- GOODREADS-CURRENTLY-READING:END -->
 
 ### Recently Read
